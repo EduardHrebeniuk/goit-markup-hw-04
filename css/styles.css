@@ -205,11 +205,6 @@ margin: 0 auto;
 
 }
 .hero-container{
-  /* display: flex;
-justify-content: center;
-    flex-direction: column;
-    align-items: center;
-    gap: 30px; */
 
 }
 .hero-title {
@@ -282,8 +277,8 @@ display: flex;
   height: 120px;
   background-color: var(--team-background-color);
   align-items: center;
-  justify-content: center;
   margin-bottom: 30px;
+  justify-content: center;
 }
 .futures-icon{
   fill: currentColor;
